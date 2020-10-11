@@ -1,3 +1,3 @@
 # Sort-The-Array
 
-https://anisurrahmanlikohn.github.io/Sort-The-Array/
+https://anisurrahmanlikhon.github.io/Sort-The-Array/
