@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 <title>Sort The Array</title>
